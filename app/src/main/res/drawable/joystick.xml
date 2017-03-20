@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="ring"
+               android:thickness="4dp"
+               android:useLevel="false"
+               android:tint="@color/translucent_blue"/>
+    </item>
+</layer-list>

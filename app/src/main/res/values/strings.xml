@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bishop</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="fab_snackbar_text">Replace with your own action</string>
+    <string name="fab_snackbar_action_text">Action</string>
+
+    <!-- MAZE -->
+    <string name="maze_algorithm_backtrack">Recursive Backtrack Algorithm</string>
+    <string name="maze_algorithm_kruskal">Randomized Kruskal\'s Algorithm</string>
+    <string name="maze_algorithm_prim">Randomized Prim\'s Algorithm</string>
+    <string name="maze_backtrack_info_format">Cells left to visit: %d</string>
+    <string name="maze_kruskal_info_format">Walls left to check: %d</string>
+    <string name="maze_prim_info_format">Cells marked for visitation: %d</string>
+    <string name="maze_solve_info_format">Steps to solution: %d</string>
+    <string name="maze_solve_error">No valid path found</string>
+    <string name="maze_solve_button">SOLVE</string>
+</resources>
